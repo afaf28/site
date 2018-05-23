@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Earlytime</title>
-    <link>/tags/</link>
+    <link>https://afaf28.github.io/site/tags/</link>
     <description>Recent content in Tags on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://afaf28.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Challenge</title>
-      <link>/tags/challenge/</link>
+      <link>https://afaf28.github.io/site/tags/challenge/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/challenge/</guid>
+      <guid>https://afaf28.github.io/site/tags/challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/tags/design/</link>
+      <link>https://afaf28.github.io/site/tags/design/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/design/</guid>
+      <guid>https://afaf28.github.io/site/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing</title>
-      <link>/tags/designing/</link>
+      <link>https://afaf28.github.io/site/tags/designing/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/designing/</guid>
+      <guid>https://afaf28.github.io/site/tags/designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>/tags/fun/</link>
+      <link>https://afaf28.github.io/site/tags/fun/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fun/</guid>
+      <guid>https://afaf28.github.io/site/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games</title>
-      <link>/tags/games/</link>
+      <link>https://afaf28.github.io/site/tags/games/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/games/</guid>
+      <guid>https://afaf28.github.io/site/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamification</title>
-      <link>/tags/gamification/</link>
+      <link>https://afaf28.github.io/site/tags/gamification/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gamification/</guid>
+      <guid>https://afaf28.github.io/site/tags/gamification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Habits</title>
-      <link>/tags/habits/</link>
+      <link>https://afaf28.github.io/site/tags/habits/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/habits/</guid>
+      <guid>https://afaf28.github.io/site/tags/habits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human</title>
-      <link>/tags/human/</link>
+      <link>https://afaf28.github.io/site/tags/human/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/human/</guid>
+      <guid>https://afaf28.github.io/site/tags/human/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tumblr</title>
-      <link>/tags/tumblr/</link>
+      <link>https://afaf28.github.io/site/tags/tumblr/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tumblr/</guid>
+      <guid>https://afaf28.github.io/site/tags/tumblr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Loyaty</title>
-      <link>/tags/user-loyaty/</link>
+      <link>https://afaf28.github.io/site/tags/user-loyaty/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/user-loyaty/</guid>
+      <guid>https://afaf28.github.io/site/tags/user-loyaty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ux</title>
-      <link>/tags/ux/</link>
+      <link>https://afaf28.github.io/site/tags/ux/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ux/</guid>
+      <guid>https://afaf28.github.io/site/tags/ux/</guid>
       <description></description>
     </item>
     
