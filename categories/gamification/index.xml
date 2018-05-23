@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gamification on Earlytime</title>
-    <link>https://afaf28.github.io/site/categories/gamification/</link>
+    <link>/categories/gamification/</link>
     <description>Recent content in Gamification on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://afaf28.github.io/site/categories/gamification/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/gamification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gamification in UX</title>
-      <link>https://afaf28.github.io/site/blog/post1/</link>
+      <link>/blog/post1/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post1/</guid>
+      <guid>/blog/post1/</guid>
       <description>Gamification in UX ===========================================================================================================================================
 The user-centered approach, which strives for creating products highly responding to the user’s needs, has become the major philosophy behind many projects. Following this method designers constantly search for the new techniques improving user experience which depends on various aspects including emotions. The thing is that users expect a product to be simple and enjoyable in use, so the idea to add a “fun” element to the UX came as it is.</description>
     </item>
     
     <item>
       <title>Gamification exemple</title>
-      <link>https://afaf28.github.io/site/blog/post2/</link>
+      <link>/blog/post2/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post2/</guid>
+      <guid>/blog/post2/</guid>
       <description>5 examples of great gamification =========================================================================================================================================== Here, we discover why gamification is an important aspect of web design and take a look at the best examples from around the web.
 1. What is gamification anyway? Gamification is the concept of bringing game mechanics or design to something that isn&amp;rsquo;t usually considered game-like, whether it&amp;rsquo;s a website, web app or native app.
 The goal is to make that traditional platform more engaging by adding a gaming edge to it.</description>

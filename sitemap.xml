@@ -3,152 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://afaf28.github.io/site/blog/post1/</loc>
+    <loc>/blog/post1/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/blog/post4/</loc>
+    <loc>/blog/post4/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/blog/post3/</loc>
+    <loc>/blog/post3/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/blog/post2/</loc>
+    <loc>/blog/post2/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/challenge/</loc>
+    <loc>/tags/challenge/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/contactdemo/</loc>
+    <loc>/contactdemo/</loc>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/design/</loc>
+    <loc>/tags/design/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/designing/</loc>
+    <loc>/tags/designing/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/platforminfo/</loc>
+    <loc>/platforminfo/</loc>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/</loc>
+    <loc>/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/fun/</loc>
-    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/games/</loc>
+    <loc>/tags/fun/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/gamification/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/categories/gamification/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/habits/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/human/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/solutions/</loc>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/tumblr/</loc>
+    <loc>/tags/games/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/tags/user-loyaty/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/categories/user-loyaty/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://afaf28.github.io/site/tags/ux/</loc>
+    <loc>/tags/gamification/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://afaf28.github.io/site/edzoinfo/</loc>
+    <loc>/categories/gamification/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/habits/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/human/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tumblr/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/user-loyaty/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/user-loyaty/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ux/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/edzoinfo/</loc>
   </url>
   
 </urlset>
