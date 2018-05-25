@@ -1829,7 +1829,7 @@ fieldset[disabled] .btn-template-primary.active {
 
 }
 .bar.background-image-general {
-  background: url('../img/home2.jpg') no-repeat;
+  background: url('../img/home2.jpg') center no-repeat;
   background-attachment: fixed;
   background-size: cover;
   height: 400px;
@@ -3970,4 +3970,8 @@ p.corps-text {
 .image-center{
   margin-left: 120px;
   margin-bottom: 60px;
+}
+
+.icon-team {
+  
 }
