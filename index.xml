@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Gamification in UX</title>
+      <title>Gamification in UX:User Engagement</title>
       <link>https://afaf28.github.io/site/blog/post1/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
@@ -22,7 +22,7 @@ The user-centered approach, which strives for creating products highly respondin
     </item>
     
     <item>
-      <title>Train Your Human 2</title>
+      <title>Designing for Healthier Habits 2</title>
       <link>https://afaf28.github.io/site/blog/post4/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
@@ -33,7 +33,7 @@ In the first part of this series, we learned about designing products that use g
     </item>
     
     <item>
-      <title>Train Your Human 1</title>
+      <title>Designing for Healthier Habits 1</title>
       <link>https://afaf28.github.io/site/blog/post3/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
@@ -43,7 +43,7 @@ Meet Joe. He’s in his mid 30s, and has 2 kids. Trying to watch his waistline, 
     </item>
     
     <item>
-      <title>Gamification exemple</title>
+      <title>Examples of great gamification</title>
       <link>https://afaf28.github.io/site/blog/post2/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
@@ -88,9 +88,9 @@ EarlyTime offers a combination of two unique features:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://afaf28.github.io/site/platforminfo/</guid>
-      <description>Earlytime boilds a tailor made solution to multiply employees skills using, e-Dzo, our digital coach corporate, who interacts with Digital Experts.
-These Digital experts are « Digital Twins » of an individual or a team within the company. They manage the knowledge and information and allow its sharing throughout the company.
-The Digital Twin will multiply the impact of the expert or the team. It will free up time and it will be available at all time, interacting simultaneously with many employees.</description>
+      <description>Earlytime builds a tailor made solution to multiply employees skills using e-Dzo, our digital coach.
+An avatar integrates each team to capture their know-how and operational knowledge and make it widely available whithin your company.
+Earlytime creates an autonomus knowledge base powered by Artificial Intelligence. The knowledge base is easy to access, always up to date and include on the field know-how.</description>
     </item>
     
     <item>
@@ -109,7 +109,16 @@ The Digital Twin will multiply the impact of the expert or the team. It will fre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://afaf28.github.io/site/team/</guid>
-      <description>A solid, complementary, experienced team enjoying this fabulous journey of transforming the khnowledge organization in corporations</description>
+      <description>A solid, complementary, experienced team enjoying this fabulous journey of transforming the knowledge organization in corporations</description>
+    </item>
+    
+    <item>
+      <title>Training with E-DZo</title>
+      <link>https://afaf28.github.io/site/training-with-edzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/training-with-edzo/</guid>
+      <description>e-dzo provides an adaptative learning path to improve your skills and help you increase clients&amp;rsquo; satisfaction.</description>
     </item>
     
     <item>
