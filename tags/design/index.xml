@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Earlytime</title>
-    <link>https://afaf28.github.io/site/tags/design/</link>
+    <link>https://earlytime.io/tags/design/</link>
     <description>Recent content in Design on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://afaf28.github.io/site/tags/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://earlytime.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gamification in UX:User Engagement</title>
-      <link>https://afaf28.github.io/site/blog/post1/</link>
+      <link>https://earlytime.io/blog/post1/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post1/</guid>
+      <guid>https://earlytime.io/blog/post1/</guid>
       <description>Gamification in UX ===========================================================================================================================================
 The user-centered approach, which strives for creating products highly responding to the user’s needs, has become the major philosophy behind many projects. Following this method designers constantly search for the new techniques improving user experience which depends on various aspects including emotions. The thing is that users expect a product to be simple and enjoyable in use, so the idea to add a “fun” element to the UX came as it is.</description>
     </item>

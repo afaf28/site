@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Earlytime</title>
-    <link>https://afaf28.github.io/site/blog/</link>
+    <link>https://earlytime.io/blog/</link>
     <description>Recent content in Blogs on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://afaf28.github.io/site/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://earlytime.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gamification in UX:User Engagement</title>
-      <link>https://afaf28.github.io/site/blog/post1/</link>
+      <link>https://earlytime.io/blog/post1/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post1/</guid>
+      <guid>https://earlytime.io/blog/post1/</guid>
       <description>Gamification in UX ===========================================================================================================================================
 The user-centered approach, which strives for creating products highly responding to the user’s needs, has become the major philosophy behind many projects. Following this method designers constantly search for the new techniques improving user experience which depends on various aspects including emotions. The thing is that users expect a product to be simple and enjoyable in use, so the idea to add a “fun” element to the UX came as it is.</description>
     </item>
     
     <item>
       <title>Designing for Healthier Habits 2</title>
-      <link>https://afaf28.github.io/site/blog/post4/</link>
+      <link>https://earlytime.io/blog/post4/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post4/</guid>
+      <guid>https://earlytime.io/blog/post4/</guid>
       <description>How to Train Your Human: Designing for Healthier Habits 2 ===========================================================================================================================================
 Remember Joe? He’s in his mid thirties, with a noble goal of losing 20 pounds. Joe really wants to work out regularly, but whenever he gets home, he ended up watching TV to relax. He’s so used to this cycle that it’s become a habit he can’t shake.
 In the first part of this series, we learned about designing products that use good triggers and motivators to get users like Joe to engage in healthy behaviors.</description>
@@ -34,20 +34,20 @@ In the first part of this series, we learned about designing products that use g
     
     <item>
       <title>Designing for Healthier Habits 1</title>
-      <link>https://afaf28.github.io/site/blog/post3/</link>
+      <link>https://earlytime.io/blog/post3/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post3/</guid>
+      <guid>https://earlytime.io/blog/post3/</guid>
       <description>How to Train Your Human: Designing for Healthier Habits 1 ===========================================================================================================================================
 Meet Joe. He’s in his mid 30s, and has 2 kids. Trying to watch his waistline, he decides he wants to lose 20 pounds. He buys the latest in wearables and the best in fitness apps to track his food and exercise. He tracks religiously for the first week and manages to lose a few pounds. But by week 2, he’s less excited.</description>
     </item>
     
     <item>
       <title>Examples of great gamification</title>
-      <link>https://afaf28.github.io/site/blog/post2/</link>
+      <link>https://earlytime.io/blog/post2/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/blog/post2/</guid>
+      <guid>https://earlytime.io/blog/post2/</guid>
       <description>5 examples of great gamification =========================================================================================================================================== Here, we discover why gamification is an important aspect of web design and take a look at the best examples from around the web.
 1. What is gamification anyway? Gamification is the concept of bringing game mechanics or design to something that isn&amp;rsquo;t usually considered game-like, whether it&amp;rsquo;s a website, web app or native app.
 The goal is to make that traditional platform more engaging by adding a gaming edge to it.</description>
