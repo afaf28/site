@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Earlytime</title>
-    <link>https://earlytime.io/categories/</link>
+    <link>https://afaf28.github.io/site/categories/</link>
     <description>Recent content in Categories on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://earlytime.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://afaf28.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gamification</title>
-      <link>https://earlytime.io/categories/gamification/</link>
+      <link>https://afaf28.github.io/site/categories/gamification/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://earlytime.io/categories/gamification/</guid>
+      <guid>https://afaf28.github.io/site/categories/gamification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Loyaty</title>
-      <link>https://earlytime.io/categories/user-loyaty/</link>
+      <link>https://afaf28.github.io/site/categories/user-loyaty/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://earlytime.io/categories/user-loyaty/</guid>
+      <guid>https://afaf28.github.io/site/categories/user-loyaty/</guid>
       <description></description>
     </item>
     
