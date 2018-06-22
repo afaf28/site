@@ -17,9 +17,10 @@ $(function () {
   productDetailSizes()
   utils()
   animations()
-  counters()
+  count()
   demo()
   contactForm()
+  introAnimate ()
 })
 
 // Ajax contact
@@ -93,7 +94,7 @@ function sliderHomepage () {
 /* sliders */
 function sliders () {
   if ($('.owl-carousel').length) {
-    $('.customers').owlCarousel({
+    $('.clients').owlCarousel({
       items: 6,
       itemsDesktopSmall: [990, 4],
       itemsTablet: [768, 2],
@@ -210,13 +211,12 @@ function animationsSlider () {
 }
 
 /* counters */
-function counters () {
-  $('.counter').counterUp({
-    delay: 10,
-    time: 1000
-  })
+function  count() { 
+$('.count').counterUp({
+  delay: 100,
+  time: 1000
+})
 }
-
 /* picture zoom */
 function pictureZoom () {
   $('.product .image, .post .image, .photostream div').each(function () {
@@ -289,7 +289,34 @@ function utils () {
     }, 1000)
   }
 }
+/* animate homepage introduction */
+function introAnimate () {
+  if ( $('#intro').length > 0 ) {	
 
+    $('#intro').waypoint( function( direction ) {
+                  
+      if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+
+        setTimeout(function() {
+          $('#intro .to-animate').each(function( k ) {
+            var el = $(this)
+            
+            setTimeout ( function () {
+              el.addClass('fadeInRight animated')
+            },  k * 200, 'easeInOutExpo' )
+            
+          })
+        }, 1000)
+
+        
+        $(this.element).addClass('animated')
+          
+      }
+    } , { offset: '80%' } )
+
+  }
+}
 /* product detail gallery */
 function productDetailGallery (confDetailSwitch) {
   $('.thumb:first').addClass('active')

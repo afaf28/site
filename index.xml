@@ -6,62 +6,45 @@
     <description>Recent content on Earlytime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://afaf28.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gamification in UX:User Engagement</title>
-      <link>https://afaf28.github.io/site/blog/post1/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://afaf28.github.io/site/blog/post1/</guid>
-      <description>Gamification in UX ===========================================================================================================================================
-The user-centered approach, which strives for creating products highly responding to the user’s needs, has become the major philosophy behind many projects. Following this method designers constantly search for the new techniques improving user experience which depends on various aspects including emotions. The thing is that users expect a product to be simple and enjoyable in use, so the idea to add a “fun” element to the UX came as it is.</description>
-    </item>
-    
-    <item>
-      <title>Designing for Healthier Habits 2</title>
-      <link>https://afaf28.github.io/site/blog/post4/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://afaf28.github.io/site/blog/post4/</guid>
-      <description>How to Train Your Human: Designing for Healthier Habits 2 ===========================================================================================================================================
-Remember Joe? He’s in his mid thirties, with a noble goal of losing 20 pounds. Joe really wants to work out regularly, but whenever he gets home, he ended up watching TV to relax. He’s so used to this cycle that it’s become a habit he can’t shake.
-In the first part of this series, we learned about designing products that use good triggers and motivators to get users like Joe to engage in healthy behaviors.</description>
-    </item>
-    
-    <item>
-      <title>Designing for Healthier Habits 1</title>
-      <link>https://afaf28.github.io/site/blog/post3/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://afaf28.github.io/site/blog/post3/</guid>
-      <description>How to Train Your Human: Designing for Healthier Habits 1 ===========================================================================================================================================
-Meet Joe. He’s in his mid 30s, and has 2 kids. Trying to watch his waistline, he decides he wants to lose 20 pounds. He buys the latest in wearables and the best in fitness apps to track his food and exercise. He tracks religiously for the first week and manages to lose a few pounds. But by week 2, he’s less excited.</description>
-    </item>
-    
-    <item>
-      <title>Examples of great gamification</title>
-      <link>https://afaf28.github.io/site/blog/post2/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://afaf28.github.io/site/blog/post2/</guid>
-      <description>5 examples of great gamification =========================================================================================================================================== Here, we discover why gamification is an important aspect of web design and take a look at the best examples from around the web.
-1. What is gamification anyway? Gamification is the concept of bringing game mechanics or design to something that isn&amp;rsquo;t usually considered game-like, whether it&amp;rsquo;s a website, web app or native app.
-The goal is to make that traditional platform more engaging by adding a gaming edge to it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://afaf28.github.io/site/about/</link>
+      <title>Articles</title>
+      <link>https://afaf28.github.io/site/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/about/</guid>
-      <description>Our conviction is that &amp;ldquo;Knowledge increases by sharing but not by saving&amp;rdquo;.
-EarlyTime creates artificial intelligence to assist employees in corporations in their daily tasks and accelerate the knowledge and skill sharing. We dematerialize your company, managers, experts and employees and make them available instantly and simultaneously to users. Also, we mobilize all human resources and virtual assistants to provide a solution for each employee’s question.
-EarlyTime offers a combination of two unique features:</description>
+      <guid>https://afaf28.github.io/site/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://afaf28.github.io/site/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatBot Platform</title>
+      <link>https://afaf28.github.io/site/chatbot_platform_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/chatbot_platform_info/</guid>
+      <description>Earlytime creates an autonomus knowledge base powered by Artificial Intelligence. The knowledge base is easy to access, always up to date and includes on the field know-how.</description>
+    </item>
+    
+    <item>
+      <title>Company’s DNA</title>
+      <link>https://afaf28.github.io/site/dna_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/dna_info/</guid>
+      <description>We are working with the Canopé network to propose a learning platform and collaborate with the National Education. This is our cause and our DNA. The team spends 20% of the time on this project, and soon, a usable prototype will be open to the public.
+For more information please contact us !</description>
     </item>
     
     <item>
@@ -83,14 +66,50 @@ EarlyTime offers a combination of two unique features:</description>
     </item>
     
     <item>
-      <title>Digital Platform</title>
-      <link>https://afaf28.github.io/site/platforminfo/</link>
+      <title>How to make sure your next product or service launch drives growth</title>
+      <link>https://afaf28.github.io/site/second_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/platforminfo/</guid>
-      <description>Earlytime builds a tailor made solution to multiply employees skills using e-Dzo, our digital coach.
-An avatar integrates each team to capture their know-how and operational knowledge and make it widely available whithin your company.
-Earlytime creates an autonomus knowledge base powered by Artificial Intelligence. The knowledge base is easy to access, always up to date and include on the field know-how.</description>
+      <guid>https://afaf28.github.io/site/second_post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://afaf28.github.io/site/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our conviction is that Knowledge increases by sharing but not by saving</title>
+      <link>https://afaf28.github.io/site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/about/</guid>
+      <description>EarlyTime creates artificial intelligence to assist employees in their daily tasks and accelerate the knowledge and skill sharing. We dematerialize your company, managers, experts and make them available instantly and simultaneously to users. Also, we mobilize all human resources and virtual assistants to provide a solution for each employee’s question.
+EarlyTime offers a unique feature:
+ e-DZO : a personal coach for each employee. It manages access to knowledge and offers an adaptive training path customized to everyone’s personal need.</description>
+    </item>
+    
+    <item>
+      <title>Our conviction is that Knowledge increases by sharing but not by saving</title>
+      <link>https://afaf28.github.io/site/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/first_post/</guid>
+      <description>EarlyTime creates artificial intelligence to assist employees in corporations in their daily tasks and accelerate the knowledge and skill sharing. We dematerialize your company, managers, experts and make them available instantly and simultaneously to users. Also, we mobilize all human resources and virtual assistants to provide a solution for each employee’s question.</description>
+    </item>
+    
+    <item>
+      <title>Our conviction is that Knowledge increases by sharing but not by saving</title>
+      <link>https://afaf28.github.io/site/third_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/third_post/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -113,23 +132,32 @@ Earlytime creates an autonomus knowledge base powered by Artificial Intelligence
     </item>
     
     <item>
-      <title>Training with E-DZo</title>
-      <link>https://afaf28.github.io/site/training-with-edzo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://afaf28.github.io/site/training-with-edzo/</guid>
-      <description>e-dzo provides an adaptative learning path to improve your skills and help you increase clients&amp;rsquo; satisfaction.</description>
-    </item>
-    
-    <item>
       <title>e-DZO</title>
-      <link>https://afaf28.github.io/site/edzoinfo/</link>
+      <link>https://afaf28.github.io/site/edzo_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://afaf28.github.io/site/edzoinfo/</guid>
+      <guid>https://afaf28.github.io/site/edzo_info/</guid>
       <description>e-Dzo is a virtual coach able to collect information through a simple dialogue, respond to questions, find solutions to regularly encountered problems, make recommendations, train individuals.
 e-Dzo is smart, intuitive and adapts to users. He integrates each team to capture, organise, store, spread and make the team’s knowledge widely available in your company. e-Dzo is an avatar of teams’ expertise.
 He is powered by artificial intelligence, and becomes the team’s memory holder, responsible for mastering the team’s know-how and expertise to provide it easily and instantaneously to any employee who may need it.</description>
+    </item>
+    
+    <item>
+      <title>e-DZO’s team</title>
+      <link>https://afaf28.github.io/site/edzo_team_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/edzo_team_info/</guid>
+      <description>«Tell me and I forget. Teach me and I remember. Involve me and I learn.» Benjamin Franklin</description>
+    </item>
+    
+    <item>
+      <title>e-Dzo Users</title>
+      <link>https://afaf28.github.io/site/edzo_users_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afaf28.github.io/site/edzo_users_info/</guid>
+      <description>e-dzo provides an adaptative learning path to improve your skills and help you increase clients’ satisfaction.</description>
     </item>
     
   </channel>

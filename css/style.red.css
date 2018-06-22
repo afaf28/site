@@ -147,6 +147,11 @@ div.section {
   border-radius: 10px;
   border: solid 2px #fff;
   font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
 }
 .icon.icon-lg {
   font-size: 30px;
@@ -1816,67 +1821,105 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .bar.background-image-our-team {
-  background: url('../img/teamphoto/team2.jpg') center top no-repeat;
+  background: url('../img/team/team1.jpg') no-repeat;
   background-attachment: fixed;
   background-size: cover;
   height: 500px;
 
 }
 .bar.background-image-general {
-  background: url('../img/home2.jpg') center no-repeat;
+  background: url('../img/home2.jpg') no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   margin-top: 0px;
 }
-.background-about {
-  background: url('../img/see-more/see.jpg') center no-repeat;
+
+.bar.background-users {
+  background: url('../img/edzo/users2.jpg') no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   margin-top: 0px;
 }
+
+.bar.background-about {
+  background: url('../img/homepage/new1.jpg') no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
+  margin-top: 0px;
+}
+.bar.background-adn {
+  background: url('../img/dna/school.jpg') no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
+  margin-top: 0px;
+}
+
 .background-platform {
-  background: url('../img/image-menu.jpg') center no-repeat;
+  background: url('../img/platform/platform2.jpg') no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   margin-top: 0px;
 }
 .background-edzo {
-  background: url('../img/platform.jpg') center no-repeat;
+  background: url('../img/platform.jpg')no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   margin-top: 0px;
 }
 .background-team {
-  background: url('../img/see-more/see6.jpg') center no-repeat;
+  background: url('../img/see-more/see6.jpg')no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
+  margin-top: 0px;
+}
+.bar.background-training-team {
+  background: url('../img/training/training-edzo2.jpg') center no-repeat;
   background-attachment: fixed;
   background-size: cover;
   height: 400px;
   margin-top: 0px;
 }
-.background-training {
-  background: url('../img/see-more/see2.jpg') center no-repeat;
+
+.bar.background-blog {
+  background: url('../img/news3.jpg ') no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
+  margin-top: 0px;
+}
+.bar.background-news {
+  background: url('../img/edzo/users3.jpg') no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
   margin-top: 0px;
 }
 .background-contact {
-  background: url('../img/see-more/see4.jpg') center no-repeat;
+  background: url('../img/see-more/see4.jpg')no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 400px;
+  height: 500px;
   margin-top: 0px;
 }
+
 .bar.background-image-see-more {
-  background: url('../img/homepage/home6.jpg') center top no-repeat;
+  background: url('../img/homepage/new2.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 600px;
+  height: 700px;
   margin-top: 0px;
+}
+@keyframes fly-cycle {
+  100% {
+  background-position: -900px 0;
+  } 
 }
 
 .bar.color-white h1,
@@ -1909,9 +1952,9 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000;
+  background: black;
   opacity: 0.2;
-  filter: alpha(opacity=0);
+ 
 }
 .bar .mask-general {
   position: absolute;
@@ -3708,8 +3751,7 @@ a.list-group-item.active > .badge,
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
-	padding: 55px 50px;
-	margin-top: 0px;
+  margin-top: 0px;
 }
 
 .footer-distributed .footer-left,
@@ -3731,7 +3773,7 @@ a.list-group-item.active > .badge,
   color:  #ffffff;
   font-size: 14px;
   font-style: oblique;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
 	margin: 0;
 }
 
@@ -3814,7 +3856,7 @@ a.list-group-item.active > .badge,
 .footer-distributed .footer-company-about{
 	line-height: 20px;
 	color:  #92999f;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
 }
@@ -3873,38 +3915,23 @@ a.list-group-item.active > .badge,
 .clients {
   padding: 0px 0px 0px 0px 0px;
 }
-.clients .image-responsive {
+.clients-image {
   display: inline-block;
-  /*filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");*/
-   /* Firefox 10+, Firefox on Android */
-  /*filter: gray;*/
-  /* IE6-9 */
-  /*-webkit-filter: grayscale(100%);*/
-  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
-  /*-webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;*/
-  height:100px;
-  width: 160px;
+  height:10px;
+  width: 12px;
   margin-top: 20px;
   margin-bottom: 40px;
-  margin-right:50px;
-  margin-left: 10px;
- 
+  margin-right:10px;
+  margin-left: 4px;
 }
-.clients img:hover {
-  max-width: auto;
-  filter: none;
-  -webkit-filter: none;
-}
-
 .platform .img-responsive {
-  position:relative;
-  margin-top: 40px;
+  
+  margin-top: 60px;
+  margin-right:0px;
   top: 0px; 
   left: 0px;
   height:auto;
-  width:800px;
+  width:auto;
 }
 .edzo .img-responsive {
   position:relative;
@@ -3922,21 +3949,24 @@ a.list-group-item.active > .badge,
   margin-bottom: 40px;
 }
 .training .img-responsive {
-  position:relative;
+  margin-top: 40px;
+  margin-left: 160px;
   height: 300px;
   width:350px;
   left: 80px;
   
 }
 .logo {
-  height: 60px;
-  width: 80px;
-  margin-top: 0px;
-  margin-bottom:0px;
+  height:auto;
+  width: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+ margin-left: 40px;
+
 }
 .corps-text {
   text-align: justify;
-  font-size: 16px;
+  font-size: 18px;
   font-family:Times "New Roman", Times, serif;
   font-style: normal;
   text-transform: inherit;
@@ -3971,7 +4001,85 @@ p.corps-text {
   margin-left: 120px;
   margin-bottom: 60px;
 }
+.count {
+  line-height: 100px;
+  color: black;
+}
+.size-stat {
+  font-size: 26px;
+  color: black;
+  font-family: Times New Roman;
+  font-weight: bolder; 
 
-.icon-team {
-  
+
+}
+.js .to-animate,
+.js .to-animate-2,
+.js .single-animate {
+  opacity: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .col-xxs-12 {
+    float: none;
+    width: 100%;
+  }
+}
+.animate-right {
+    background-color:transparent;
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-timing-function: ease; /* Transition de type ease */
+}
+.animate-right:hover
+{
+    transform: translateX(100px); /* On déplace l'objet */
+}
+.animate-right-max {
+  background-color:transparent;
+  transition-property: transform;
+  transition-duration: 2s;
+  transition-timing-function: ease; /* Transition de type ease */
+}
+.animate-right-max:hover
+{
+  transform: translateX(400px); /* On déplace l'objet */
+}
+.animate-left {
+  background-color:transparent;
+  transition-property: transform;
+  transition-duration: 1s;
+  transition-timing-function: ease; /* Transition de type ease */
+}
+.animate-left:hover
+{
+  transform: translateX(-100px); /* On déplace l'objet */
+}
+.animate-left-max {
+  background-color:transparent;
+  transition-property: transform;
+  transition-duration: 2s;
+  transition-timing-function: ease; /* Transition de type ease */
+}
+.animate-left-max:hover
+{
+  transform: translateX(-400px); /* On déplace l'objet */
+}
+.rotation {
+  transition-property: transform;
+  transition-duration: 1s;
+  transition-timing-function: ease; /* Transition de type ease */
+}
+.rotation:hover
+{
+  transform: rotate(1turn);
+}
+.demi-rotation {
+  transition-property: transform;
+  transition-duration: 1s;
+  transition-timing-function: ease; /* Transition de type ease */
+}
+.demi-rotation:hover
+{
+  transform: rotate(0.5turn);
 }
